@@ -10,11 +10,10 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 
 public class Application {
-    Change changeI;
     public static void main(String[] args) {
 //In this main method you should do the following:
 //- create list of users. To create users - use constructor with all parameters.
-//You can use array or ArrayList(prefferably).
+//You can use array or ArrayList(preferably).
 //Some of the created users should have status as NEW.
 
         System.out.println("You can see user details in the list below:");
